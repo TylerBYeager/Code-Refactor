@@ -46,6 +46,7 @@ a {
     text-decoration: none;
 }
 
+/*Added hover effect to navigational links for visual appeal*/
 a:hover {
     color:slategray
 }
