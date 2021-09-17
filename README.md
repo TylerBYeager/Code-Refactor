@@ -29,14 +29,14 @@ Next:
 ```
 Open up Gitbash or Terminal and navigate to a directory that you would like to add the cloned repository. Once in your desired directory type in
 `code` git clone "Right click to paste your cloned repository" 
----
+```
 and press enter. This will clone the repository onto your personal machine.
 
 Lastly:
-
+```
 If you type in 'ls' in Gitbash or Terminal you should be shown a list of what is now in your directory. The cloned repository should exist. Simply
 'cd' change directory into the new repository and 'code .' to open it with your selected code editor.
----
+```
 
 
 ## Built With
