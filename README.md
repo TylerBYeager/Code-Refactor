@@ -22,15 +22,13 @@ First:
 ```
 Once you have a working SSH key added to your Github account, go to the Code-Refactor Repository. Click the green "code" button on the top right and clone down the @github.com link with you SSH key. 
 ```
-![View of green code button](./assets/images/clone.png)
 
 Next:
 
 ```
 Open up Gitbash or Terminal and navigate to a directory that you would like to add the cloned repository. Once in your desired directory type in
-`git clone "Right click to paste your cloned repository"` 
+git clone "Right click to paste your cloned repository" and press enter. This will clone the repository onto your personal machine.
 ```
-and press enter. This will clone the repository onto your personal machine.
 
 Lastly:
 ```
