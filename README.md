@@ -22,7 +22,7 @@ First:
 ```
 Once you have a working SSH key added to your Github account, go to the Code-Refactor Repository. Click the green "code" button on the top right and clone down the @github.com link with you SSH key. 
 ```
-![View of green code button](clone.png)
+![View of green code button](./assets/images/clone.png)
 
 Next:
 
@@ -47,6 +47,7 @@ If you type in 'Ls' in Gitbash or Terminal you should be shown a list of what is
 ## Deployed Link
 
 * [See live site!](https://tylerbyeager.github.io/Code-Refactor/)
+Site is not currently optimized for viewing on a smaller screen. 
 
 
 ## Authors
@@ -55,7 +56,7 @@ If you type in 'Ls' in Gitbash or Terminal you should be shown a list of what is
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/)
-- [Link to LinkedIn](www.linkedin.com/in/tyler-yeager-1024)
+- [Link to LinkedIn](https://www.linkedin.com/in/tyler-yeager-611926213/)
 
 
 ## License
