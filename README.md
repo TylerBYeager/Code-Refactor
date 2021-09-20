@@ -2,6 +2,10 @@
 
 A basic refactoring of existing index.html and style.css files to improve code efficiency. Refactoring the code with semantic html usage resulted in increased accessibility and search engine optimization while maintaining site functionality and display styling. 
 
+![Preview](https://user-images.githubusercontent.com/89880190/134089278-93acadf5-ab0d-4bdf-85e6-b71e8656d56a.png)
+
+
+
 ## What was accomplished?
 
 - Non semantic html elements were replaced with semantic html elements
